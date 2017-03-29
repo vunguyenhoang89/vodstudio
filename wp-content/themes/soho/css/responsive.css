@@ -186,6 +186,7 @@ img.logo_retina {
 	.count_title h1 {
 		padding-left:10px;
 		letter-spacing:10px;
+		padding-top: 50px;
 	}
 	.countdown-amount {
 		font-size: 80px;
